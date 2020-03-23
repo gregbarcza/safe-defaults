@@ -1,0 +1,23 @@
+{
+  "name": "safe-defaults",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "for-own": "^1.0.0",
+    "is-extendable": "^1.0.1"
+  }
+}
